@@ -35,13 +35,17 @@ html {
 
 
 .content {
-  text-align: center;
-  font-family: 'Open Sans', sans-serif;
-  color: #fff;
-  margin: 40px auto;
-  background: rgba(22,22,22, 0.5);
-  width: 100%;
-  max-width: 960px;
-  border-radius: 5px;
-  padding-bottom: 32px;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	color: #fff;
+	margin: 40px auto;
+	background: rgba(22, 22, 22, 0.5);
+	width: 100%;
+	max-width: 960px;
+	border-radius: 5px;
+	padding-bottom: 32px;
+}
+
+body {
+	cursor: url(cur.cursors-4u.net/sports/images1/spo15.gif);
 }
