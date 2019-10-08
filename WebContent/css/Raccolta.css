@@ -1,0 +1,47 @@
+/* body { */
+/* 	background: center */
+/* 		url(https://www.noisiamofuturo.it/wp-content/uploads/2017/12/4411494-fantasy-pics-wallpapers.jpg); */
+/* 	background-repeat: no-repeat; */
+/* 	background-size: auto; */
+/* 	filter: blur(100px); */
+/* } */
+
+/* body{ */
+/* 	background-size: 850px; */
+/* 	  border: 10px solid; */
+/*       color: #0080ff; */
+/* } */
+
+/* body{ */
+/* 	filter: blur (100px); */
+/* } */
+html {
+	background:
+		url(https://www.noisiamofuturo.it/wp-content/uploads/2017/12/4411494-fantasy-pics-wallpapers.jpg)
+		no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+/* Cursor non va */
+/* html { */
+/* 	cursor: url(http://cur.cursors-4u.net/games/images10/gam945.gif), pointer, url(http://cur.cursors-4u.net/games/images10/gam945.gif), auto; */
+/* } */
+
+/* /* http://cur.cursors-4u.net/games/images10/gam945.gif */
+*
+
+
+.content {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  margin: 40px auto;
+  background: rgba(22,22,22, 0.5);
+  width: 100%;
+  max-width: 960px;
+  border-radius: 5px;
+  padding-bottom: 32px;
+}
